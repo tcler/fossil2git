@@ -13,6 +13,7 @@ gitdir=${repo}.git
 [[ $# < 3 ]] && {
 	echo "Usage: $0 <fossil-url> <repo-name> <branch-name>" >&2
 	echo " e.g: $0 https://wapp.tcl.tk wapp trunk" >&2
+	exit 1
 }
 
 #download fossil dbfile (sqlite)
