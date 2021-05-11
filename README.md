@@ -2,10 +2,10 @@
 scripts to convert fossil repo to git repo
 
 # examples
-```
-[jh@fstest fossil2git]$ ls
+<pre>
+<b>[jh@fstest fossil2git]$ ls</b>
 LICENSE  README.md  fossil-sync-changes-to-git.sh  fossil-to-new-git.sh
-[jh@fstest fossil2git]$ ./fossil-to-new-git.sh https://wapp.tcl.tk wapp trunk 
+<b>[jh@fstest fossil2git]$ ./fossil-to-new-git.sh https://wapp.tcl.tk wapp trunk</b>
 redirect with status 301 to https://wapp.tcl.tk/home
 Round-trips: 2   Artifacts sent: 0  received: 572
 Clone done, sent: 744  received: 2919362  ip: 45.33.6.223
@@ -21,9 +21,9 @@ Makefile.macos
 README.md
 ...
 Switched to branch 'trunk'
-[jh@fstest fossil2git]$ ls
-LICENSE  README.md  fossil-sync-changes-to-git.sh  fossil-to-new-git.sh  wapp.db  wapp.fossil  wapp.git
-```
+<b>[jh@fstest fossil2git]$ ls</b>
+LICENSE  README.md  fossil-sync-changes-to-git.sh  fossil-to-new-git.sh  🍊wapp.db  wapp.fossil  wapp.git🍊
+</pre>
 
 # ref
 https://fossil-scm.org/home/doc/trunk/www/inout.wiki  
