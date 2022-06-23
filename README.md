@@ -22,7 +22,7 @@ README.md
 ...
 Switched to branch 'trunk'
 <b>[jh@fstest fossil2git]$ ls</b>
-LICENSE  README.md  fossil-sync-changes-to-git.sh  fossil-to-new-git.sh  🍊wapp.db  wapp.fossil  wapp.git🍊
+LICENSE  README.md  fossil-to-new-git.sh  🍊wapp.fossilf  wapp.fossil  wapp.git🍊
 </pre>
 
 # ref
