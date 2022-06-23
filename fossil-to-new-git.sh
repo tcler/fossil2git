@@ -6,7 +6,7 @@ fossilUrl=$1
 repo=$2
 branch=$3
 
-repofile=${repo}.db
+repofile=${repo}.fossilf
 repodir=${repo}.fossil
 gitdir=${repo}.git
 
